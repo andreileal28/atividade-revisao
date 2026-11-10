@@ -1,5 +1,13 @@
 # README – Análise de Erros
 
+## Alunos: 
+
+Andrei Rodrigues Leal
+
+Anthony Sobrinho
+
+Lígia Yumi Shiga Meira
+
 ## index.html
 - Atributo `requered` escrito incorretamente.
 - Atributo `minlenght` escrito incorretamente.
